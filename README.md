@@ -8,3 +8,6 @@
 
 
 https://blog.naver.com/jrary
+
+
+https://velog.io/@kijrary
