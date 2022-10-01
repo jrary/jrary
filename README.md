@@ -1,6 +1,5 @@
 <div align="center">
   
-[![Github stats](https://github-readme-stats.vercel.app/api?username=jrary&show_icons=true&hide_border=true)](https://github.com/jrary)
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrary&layout=compact)](https://github.com/jrary)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kijrary@gmail.com)](mailto:kijrary@gmail.com)
