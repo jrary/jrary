@@ -22,25 +22,26 @@
 ![HTML5](https://img.shields.io/badge/HTML-e34f26.svg?&style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white)
-
-
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88.svg?&style=flat&logo=Redux&logoColor=white)
     
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-007396.svg?&style=flat&logo=Spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-007396.svg?&style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
 
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-007396.svg?&style=flat&logo=Spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232f32.svg?&style=flat&logo=amazonaws&logoColor=white)
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232f32.svg?&style=flat&logo=amazonaws&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=Github&logoColor=white)
