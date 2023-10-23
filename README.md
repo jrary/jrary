@@ -46,6 +46,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=Github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=Figma&logoColor=white)
 </div>
 <div >
