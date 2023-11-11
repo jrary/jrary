@@ -32,7 +32,6 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-007396.svg?&style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white)
 
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-007396.svg?&style=flat&logo=Spring&logoColor=white)
