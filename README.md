@@ -27,7 +27,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88.svg?&style=flat&logo=Redux&logoColor=white)
     
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-007396.svg?&style=flat&logo=kotlin&logoColor=white)
