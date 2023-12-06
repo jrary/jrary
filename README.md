@@ -38,11 +38,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
-
-
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=Github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
