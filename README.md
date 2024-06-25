@@ -53,4 +53,7 @@
 -->
 </div>
 </div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jrary" width="500"/>
+</a>
 </div>
