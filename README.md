@@ -23,7 +23,8 @@
 <div>
 
 <div>
-  
+
+<!--
 ![HTML5](https://img.shields.io/badge/HTML-e34f26.svg?&style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white)
@@ -45,6 +46,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat&logo=Figma&logoColor=white)
+-->
 </div>
 <div >
 
