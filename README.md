@@ -15,9 +15,7 @@
 <!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jrary&show_icons=true&hide_border=true&theme=shadow_green&bg_color=ffffff&count_private=true)](https://github.com/jrary)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jrary)](https://solved.ac/jrary/)
--->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kijrary)](https://velog.io/@kijrary)
-<!--
 <hr />
 -->
 <div>
