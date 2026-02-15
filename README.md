@@ -9,7 +9,7 @@
 <hr />
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-e6594c.svg?&style=flat&logo=Gmail&logoColor=white)](mailto:kijrary@gmail.com)
-<!-- [![Velog Badge](http://img.shields.io/badge/Velog_-20C997.svg?&style=flat&logo=Velog&logoColor=white)](https://velog.io/@kijrary) -->
+[![Velog Badge](http://img.shields.io/badge/Velog_-20C997.svg?&style=flat&logo=Velog&logoColor=white)](https://velog.io/@kijrary)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjrary)](https://hits.seeyoufarm.com)
 
 <!--
